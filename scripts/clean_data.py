@@ -1,7 +1,8 @@
 import pandas as pd
 
 matches = pd.read_csv("data/raw/matches_1930_2022.csv")
-rankings = pd.read_csv("data/raw/fifa_ranking_2026-06-08.csv")
+# keep only modern era matches
+matches = matches[matches["Year"] >= 2010]
 # keep useful columns
 matches = matches[
     [
