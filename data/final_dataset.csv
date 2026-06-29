@@ -1,0 +1,772 @@
+home_team,away_team,home_score,away_score,Round,Year,result,home_rank,home_points,away_rank,away_points
+Argentina,France,3,3,Final,2022,1,1.0,1876.118331,3.0,1869.428449
+Croatia,Morocco,2,1,Third-place match,2022,2,11.0,1714.865572,7.0,1755.100232
+France,Morocco,2,0,Semi-finals,2022,2,3.0,1869.428449,7.0,1755.100232
+Argentina,Croatia,3,0,Semi-finals,2022,2,1.0,1876.118331,11.0,1714.865572
+Morocco,Portugal,1,0,Quarter-finals,2022,2,7.0,1755.100232,5.0,1766.177547
+England,France,1,2,Quarter-finals,2022,0,4.0,1827.048678,3.0,1869.428449
+Croatia,Brazil,1,1,Quarter-finals,2022,1,11.0,1714.865572,6.0,1765.856297
+Netherlands,Argentina,2,2,Quarter-finals,2022,1,8.0,1751.097835,1.0,1876.118331
+Morocco,Spain,0,0,Round of 16,2022,1,7.0,1755.100232,2.0,1873.013187
+Portugal,Switzerland,6,1,Round of 16,2022,2,5.0,1766.177547,19.0,1650.064179
+Japan,Croatia,1,1,Round of 16,2022,1,18.0,1661.576187,11.0,1714.865572
+Brazil,Korea Republic,4,1,Round of 16,2022,2,6.0,1765.856297,25.0,1591.630886
+France,Poland,3,1,Round of 16,2022,2,3.0,1869.428449,36.0,1526.183359
+England,Senegal,3,0,Round of 16,2022,2,4.0,1827.048678,15.0,1686.412769
+Argentina,Australia,2,1,Round of 16,2022,2,1.0,1876.118331,27.0,1579.34264
+Korea Republic,Portugal,2,1,Group stage,2022,2,25.0,1591.630886,5.0,1766.177547
+Ghana,Uruguay,0,2,Group stage,2022,0,73.0,1346.881205,16.0,1673.068603
+Cameroon,Brazil,1,0,Group stage,2022,2,44.0,1481.235245,6.0,1765.856297
+Serbia,Switzerland,2,3,Group stage,2022,0,43.0,1502.133186,19.0,1650.064179
+Canada,Morocco,1,2,Group stage,2022,0,30.0,1559.479301,7.0,1755.100232
+Croatia,Belgium,0,0,Group stage,2022,1,11.0,1714.865572,9.0,1742.235945
+Costa Rica,Germany,2,4,Group stage,2022,0,52.0,1457.00228,10.0,1735.771984
+Japan,Spain,2,1,Group stage,2022,2,18.0,1661.576187,2.0,1873.013187
+Australia,Denmark,1,0,Group stage,2022,2,27.0,1579.34264,21.0,1619.474248
+Tunisia,France,1,0,Group stage,2022,2,46.0,1476.405088,3.0,1869.428449
+Saudi Arabia,Mexico,1,2,Group stage,2022,0,61.0,1421.538339,14.0,1687.481759
+Poland,Argentina,0,2,Group stage,2022,0,36.0,1526.183359,1.0,1876.118331
+Ecuador,Senegal,1,2,Group stage,2022,0,23.0,1598.51582,15.0,1686.412769
+Netherlands,Qatar,2,0,Group stage,2022,2,8.0,1751.097835,57.0,1450.307729
+Wales,England,0,3,Group stage,2022,0,37.0,1516.946629,4.0,1827.048678
+Cameroon,Serbia,3,3,Group stage,2022,1,44.0,1481.235245,43.0,1502.133186
+Korea Republic,Ghana,2,3,Group stage,2022,0,25.0,1591.630886,73.0,1346.881205
+Brazil,Switzerland,1,0,Group stage,2022,2,6.0,1765.856297,19.0,1650.064179
+Portugal,Uruguay,2,0,Group stage,2022,2,5.0,1766.177547,16.0,1673.068603
+Japan,Costa Rica,0,1,Group stage,2022,0,18.0,1661.576187,52.0,1457.00228
+Belgium,Morocco,0,2,Group stage,2022,0,9.0,1742.235945,7.0,1755.100232
+Croatia,Canada,4,1,Group stage,2022,2,11.0,1714.865572,30.0,1559.479301
+Spain,Germany,1,1,Group stage,2022,1,2.0,1873.013187,10.0,1735.771984
+Tunisia,Australia,0,1,Group stage,2022,0,46.0,1476.405088,27.0,1579.34264
+Poland,Saudi Arabia,2,0,Group stage,2022,2,36.0,1526.183359,61.0,1421.538339
+France,Denmark,2,1,Group stage,2022,2,3.0,1869.428449,21.0,1619.474248
+Argentina,Mexico,2,0,Group stage,2022,2,1.0,1876.118331,14.0,1687.481759
+Wales,IR Iran,0,2,Group stage,2022,0,37.0,1516.946629,20.0,1619.58163
+Qatar,Senegal,1,3,Group stage,2022,0,57.0,1450.307729,15.0,1686.412769
+Netherlands,Ecuador,1,1,Group stage,2022,1,8.0,1751.097835,23.0,1598.51582
+Switzerland,Cameroon,1,0,Group stage,2022,2,19.0,1650.064179,44.0,1481.235245
+Uruguay,Korea Republic,0,0,Group stage,2022,1,16.0,1673.068603,25.0,1591.630886
+Portugal,Ghana,3,2,Group stage,2022,2,5.0,1766.177547,73.0,1346.881205
+Brazil,Serbia,2,0,Group stage,2022,2,6.0,1765.856297,43.0,1502.133186
+Morocco,Croatia,0,0,Group stage,2022,1,7.0,1755.100232,11.0,1714.865572
+Germany,Japan,1,2,Group stage,2022,0,10.0,1735.771984,18.0,1661.576187
+Spain,Costa Rica,7,0,Group stage,2022,2,2.0,1873.013187,52.0,1457.00228
+Belgium,Canada,1,0,Group stage,2022,2,9.0,1742.235945,30.0,1559.479301
+Argentina,Saudi Arabia,1,2,Group stage,2022,0,1.0,1876.118331,61.0,1421.538339
+Denmark,Tunisia,0,0,Group stage,2022,1,21.0,1619.474248,46.0,1476.405088
+Mexico,Poland,0,0,Group stage,2022,1,14.0,1687.481759,36.0,1526.183359
+France,Australia,4,1,Group stage,2022,2,3.0,1869.428449,27.0,1579.34264
+England,IR Iran,6,2,Group stage,2022,2,4.0,1827.048678,20.0,1619.58163
+Senegal,Netherlands,0,2,Group stage,2022,0,15.0,1686.412769,8.0,1751.097835
+Qatar,Ecuador,0,2,Group stage,2022,0,57.0,1450.307729,23.0,1598.51582
+France,Croatia,4,2,Final,2018,2,3.0,1869.428449,11.0,1714.865572
+Belgium,England,2,0,Third-place match,2018,2,9.0,1742.235945,4.0,1827.048678
+Croatia,England,2,1,Semi-finals,2018,2,11.0,1714.865572,4.0,1827.048678
+France,Belgium,1,0,Semi-finals,2018,2,3.0,1869.428449,9.0,1742.235945
+Sweden,England,0,2,Quarter-finals,2018,0,38.0,1509.785392,4.0,1827.048678
+Russia,Croatia,2,2,Quarter-finals,2018,1,35.0,1527.237131,11.0,1714.865572
+Uruguay,France,0,2,Quarter-finals,2018,0,16.0,1673.068603,3.0,1869.428449
+Brazil,Belgium,1,2,Quarter-finals,2018,0,6.0,1765.856297,9.0,1742.235945
+Sweden,Switzerland,1,0,Round of 16,2018,2,38.0,1509.785392,19.0,1650.064179
+Colombia,England,1,1,Round of 16,2018,1,13.0,1698.351858,4.0,1827.048678
+Brazil,Mexico,2,0,Round of 16,2018,2,6.0,1765.856297,14.0,1687.481759
+Belgium,Japan,3,2,Round of 16,2018,2,9.0,1742.235945,18.0,1661.576187
+Spain,Russia,1,1,Round of 16,2018,1,2.0,1873.013187,35.0,1527.237131
+Croatia,Denmark,1,1,Round of 16,2018,1,11.0,1714.865572,21.0,1619.474248
+France,Argentina,4,3,Round of 16,2018,2,3.0,1869.428449,1.0,1876.118331
+Uruguay,Portugal,2,1,Round of 16,2018,2,16.0,1673.068603,5.0,1766.177547
+Japan,Poland,0,1,Group stage,2018,0,18.0,1661.576187,36.0,1526.183359
+Senegal,Colombia,0,1,Group stage,2018,0,15.0,1686.412769,13.0,1698.351858
+England,Belgium,0,1,Group stage,2018,0,4.0,1827.048678,9.0,1742.235945
+Panama,Tunisia,1,2,Group stage,2018,0,34.0,1539.155509,46.0,1476.405088
+Korea Republic,Germany,2,0,Group stage,2018,2,25.0,1591.630886,10.0,1735.771984
+Mexico,Sweden,0,3,Group stage,2018,0,14.0,1687.481759,38.0,1509.785392
+Switzerland,Costa Rica,2,2,Group stage,2018,1,19.0,1650.064179,52.0,1457.00228
+Serbia,Brazil,0,2,Group stage,2018,0,43.0,1502.133186,6.0,1765.856297
+Australia,Peru,0,2,Group stage,2018,0,27.0,1579.34264,51.0,1459.390555
+Denmark,France,0,0,Group stage,2018,1,21.0,1619.474248,3.0,1869.428449
+Iceland,Croatia,1,2,Group stage,2018,0,74.0,1343.920201,11.0,1714.865572
+Nigeria,Argentina,1,2,Group stage,2018,0,26.0,1586.688586,1.0,1876.118331
+Saudi Arabia,Egypt,2,1,Group stage,2018,2,61.0,1421.538339,29.0,1562.367246
+Uruguay,Russia,3,0,Group stage,2018,2,16.0,1673.068603,35.0,1527.237131
+Spain,Morocco,2,2,Group stage,2018,1,2.0,1873.013187,7.0,1755.100232
+IR Iran,Portugal,1,1,Group stage,2018,1,20.0,1619.58163,5.0,1766.177547
+England,Panama,6,1,Group stage,2018,2,4.0,1827.048678,34.0,1539.155509
+Japan,Senegal,2,2,Group stage,2018,1,18.0,1661.576187,15.0,1686.412769
+Poland,Colombia,0,3,Group stage,2018,0,36.0,1526.183359,13.0,1698.351858
+Belgium,Tunisia,5,2,Group stage,2018,2,9.0,1742.235945,46.0,1476.405088
+Korea Republic,Mexico,1,2,Group stage,2018,0,25.0,1591.630886,14.0,1687.481759
+Germany,Sweden,2,1,Group stage,2018,2,10.0,1735.771984,38.0,1509.785392
+Brazil,Costa Rica,2,0,Group stage,2018,2,6.0,1765.856297,52.0,1457.00228
+Nigeria,Iceland,2,0,Group stage,2018,2,26.0,1586.688586,74.0,1343.920201
+Serbia,Switzerland,1,2,Group stage,2018,0,43.0,1502.133186,19.0,1650.064179
+Denmark,Australia,1,1,Group stage,2018,1,21.0,1619.474248,27.0,1579.34264
+France,Peru,1,0,Group stage,2018,2,3.0,1869.428449,51.0,1459.390555
+Argentina,Croatia,0,3,Group stage,2018,0,1.0,1876.118331,11.0,1714.865572
+Portugal,Morocco,1,0,Group stage,2018,2,5.0,1766.177547,7.0,1755.100232
+Uruguay,Saudi Arabia,1,0,Group stage,2018,2,16.0,1673.068603,61.0,1421.538339
+IR Iran,Spain,0,1,Group stage,2018,0,20.0,1619.58163,2.0,1873.013187
+Colombia,Japan,1,2,Group stage,2018,0,13.0,1698.351858,18.0,1661.576187
+Poland,Senegal,1,2,Group stage,2018,0,36.0,1526.183359,15.0,1686.412769
+Russia,Egypt,3,1,Group stage,2018,2,35.0,1527.237131,29.0,1562.367246
+Sweden,Korea Republic,1,0,Group stage,2018,2,38.0,1509.785392,25.0,1591.630886
+Belgium,Panama,3,0,Group stage,2018,2,9.0,1742.235945,34.0,1539.155509
+Tunisia,England,1,2,Group stage,2018,0,46.0,1476.405088,4.0,1827.048678
+Costa Rica,Serbia,0,1,Group stage,2018,0,52.0,1457.00228,43.0,1502.133186
+Germany,Mexico,0,1,Group stage,2018,0,10.0,1735.771984,14.0,1687.481759
+Brazil,Switzerland,1,1,Group stage,2018,1,6.0,1765.856297,19.0,1650.064179
+France,Australia,2,1,Group stage,2018,2,3.0,1869.428449,27.0,1579.34264
+Argentina,Iceland,1,1,Group stage,2018,1,1.0,1876.118331,74.0,1343.920201
+Peru,Denmark,0,1,Group stage,2018,0,51.0,1459.390555,21.0,1619.474248
+Croatia,Nigeria,2,0,Group stage,2018,2,11.0,1714.865572,26.0,1586.688586
+Egypt,Uruguay,0,1,Group stage,2018,0,29.0,1562.367246,16.0,1673.068603
+Morocco,IR Iran,0,1,Group stage,2018,0,7.0,1755.100232,20.0,1619.58163
+Portugal,Spain,3,3,Group stage,2018,1,5.0,1766.177547,2.0,1873.013187
+Russia,Saudi Arabia,5,0,Group stage,2018,2,35.0,1527.237131,61.0,1421.538339
+Germany,Argentina,1,0,Final,2014,2,10.0,1735.771984,1.0,1876.118331
+Brazil,Netherlands,0,3,Third-place match,2014,0,6.0,1765.856297,8.0,1751.097835
+Netherlands,Argentina,0,0,Semi-finals,2014,1,8.0,1751.097835,1.0,1876.118331
+Brazil,Germany,1,7,Semi-finals,2014,0,6.0,1765.856297,10.0,1735.771984
+Argentina,Belgium,1,0,Quarter-finals,2014,2,1.0,1876.118331,9.0,1742.235945
+Netherlands,Costa Rica,0,0,Quarter-finals,2014,1,8.0,1751.097835,52.0,1457.00228
+France,Germany,0,1,Quarter-finals,2014,0,3.0,1869.428449,10.0,1735.771984
+Brazil,Colombia,2,1,Quarter-finals,2014,2,6.0,1765.856297,13.0,1698.351858
+Argentina,Switzerland,1,0,Round of 16,2014,2,1.0,1876.118331,19.0,1650.064179
+France,Nigeria,2,0,Round of 16,2014,2,3.0,1869.428449,26.0,1586.688586
+Germany,Algeria,2,1,Round of 16,2014,2,10.0,1735.771984,28.0,1571.033293
+Netherlands,Mexico,2,1,Round of 16,2014,2,8.0,1751.097835,14.0,1687.481759
+Costa Rica,Greece,1,1,Round of 16,2014,1,52.0,1457.00228,48.0,1473.187305
+Brazil,Chile,1,1,Round of 16,2014,1,6.0,1765.856297,55.0,1452.939983
+Colombia,Uruguay,2,0,Round of 16,2014,2,13.0,1698.351858,16.0,1673.068603
+Portugal,Ghana,2,1,Group stage,2014,2,5.0,1766.177547,73.0,1346.881205
+Korea Republic,Belgium,0,1,Group stage,2014,0,25.0,1591.630886,9.0,1742.235945
+Algeria,Russia,1,1,Group stage,2014,1,28.0,1571.033293,35.0,1527.237131
+Bosnia and Herzegovina,IR Iran,3,1,Group stage,2014,2,64.0,1387.215771,20.0,1619.58163
+Nigeria,Argentina,2,3,Group stage,2014,0,26.0,1586.688586,1.0,1876.118331
+Honduras,Switzerland,0,3,Group stage,2014,0,65.0,1378.970301,19.0,1650.064179
+Ecuador,France,0,0,Group stage,2014,1,23.0,1598.51582,3.0,1869.428449
+Costa Rica,England,0,0,Group stage,2014,1,52.0,1457.00228,4.0,1827.048678
+Italy,Uruguay,0,1,Group stage,2014,0,12.0,1704.733836,16.0,1673.068603
+Japan,Colombia,1,4,Group stage,2014,0,18.0,1661.576187,13.0,1698.351858
+Greece,Côte d'Ivoire,2,1,Group stage,2014,2,48.0,1473.187305,33.0,1540.869533
+Australia,Spain,0,3,Group stage,2014,0,27.0,1579.34264,2.0,1873.013187
+Netherlands,Chile,2,0,Group stage,2014,2,8.0,1751.097835,55.0,1452.939983
+Croatia,Mexico,1,3,Group stage,2014,0,11.0,1714.865572,14.0,1687.481759
+Cameroon,Brazil,1,4,Group stage,2014,0,44.0,1481.235245,6.0,1765.856297
+Belgium,Russia,1,0,Group stage,2014,2,9.0,1742.235945,35.0,1527.237131
+Korea Republic,Algeria,2,4,Group stage,2014,0,25.0,1591.630886,28.0,1571.033293
+Argentina,IR Iran,1,0,Group stage,2014,2,1.0,1876.118331,20.0,1619.58163
+Germany,Ghana,2,2,Group stage,2014,1,10.0,1735.771984,73.0,1346.881205
+Nigeria,Bosnia and Herzegovina,1,0,Group stage,2014,2,26.0,1586.688586,64.0,1387.215771
+Italy,Costa Rica,0,1,Group stage,2014,0,12.0,1704.733836,52.0,1457.00228
+Switzerland,France,2,5,Group stage,2014,0,19.0,1650.064179,3.0,1869.428449
+Honduras,Ecuador,1,2,Group stage,2014,0,65.0,1378.970301,23.0,1598.51582
+Colombia,Côte d'Ivoire,2,1,Group stage,2014,2,13.0,1698.351858,33.0,1540.869533
+Uruguay,England,2,1,Group stage,2014,2,16.0,1673.068603,4.0,1827.048678
+Japan,Greece,0,0,Group stage,2014,1,18.0,1661.576187,48.0,1473.187305
+Australia,Netherlands,2,3,Group stage,2014,0,27.0,1579.34264,8.0,1751.097835
+Spain,Chile,0,2,Group stage,2014,0,2.0,1873.013187,55.0,1452.939983
+Cameroon,Croatia,0,4,Group stage,2014,0,44.0,1481.235245,11.0,1714.865572
+Belgium,Algeria,2,1,Group stage,2014,2,9.0,1742.235945,28.0,1571.033293
+Brazil,Mexico,0,0,Group stage,2014,1,6.0,1765.856297,14.0,1687.481759
+Russia,Korea Republic,1,1,Group stage,2014,1,35.0,1527.237131,25.0,1591.630886
+Germany,Portugal,4,0,Group stage,2014,2,10.0,1735.771984,5.0,1766.177547
+IR Iran,Nigeria,0,0,Group stage,2014,1,20.0,1619.58163,26.0,1586.688586
+Switzerland,Ecuador,2,1,Group stage,2014,2,19.0,1650.064179,23.0,1598.51582
+France,Honduras,3,0,Group stage,2014,2,3.0,1869.428449,65.0,1378.970301
+Argentina,Bosnia and Herzegovina,2,1,Group stage,2014,2,1.0,1876.118331,64.0,1387.215771
+Colombia,Greece,3,0,Group stage,2014,2,13.0,1698.351858,48.0,1473.187305
+Uruguay,Costa Rica,1,3,Group stage,2014,0,16.0,1673.068603,52.0,1457.00228
+England,Italy,1,2,Group stage,2014,0,4.0,1827.048678,12.0,1704.733836
+Côte d'Ivoire,Japan,2,1,Group stage,2014,2,33.0,1540.869533,18.0,1661.576187
+Mexico,Cameroon,1,0,Group stage,2014,2,14.0,1687.481759,44.0,1481.235245
+Spain,Netherlands,1,5,Group stage,2014,0,2.0,1873.013187,8.0,1751.097835
+Chile,Australia,3,1,Group stage,2014,2,55.0,1452.939983,27.0,1579.34264
+Brazil,Croatia,3,1,Group stage,2014,2,6.0,1765.856297,11.0,1714.865572
+Netherlands,Spain,0,1,Final,2010,0,8.0,1751.097835,2.0,1873.013187
+Uruguay,Germany,2,3,Third-place match,2010,0,16.0,1673.068603,10.0,1735.771984
+Germany,Spain,0,1,Semi-finals,2010,0,10.0,1735.771984,2.0,1873.013187
+Uruguay,Netherlands,2,3,Semi-finals,2010,0,16.0,1673.068603,8.0,1751.097835
+Argentina,Germany,0,4,Quarter-finals,2010,0,1.0,1876.118331,10.0,1735.771984
+Paraguay,Spain,0,1,Quarter-finals,2010,0,40.0,1505.349689,2.0,1873.013187
+Netherlands,Brazil,2,1,Quarter-finals,2010,2,8.0,1751.097835,6.0,1765.856297
+Uruguay,Ghana,1,1,Quarter-finals,2010,1,16.0,1673.068603,73.0,1346.881205
+Paraguay,Japan,0,0,Round of 16,2010,1,40.0,1505.349689,18.0,1661.576187
+Spain,Portugal,1,0,Round of 16,2010,2,2.0,1873.013187,5.0,1766.177547
+Netherlands,Slovakia,2,1,Round of 16,2010,2,8.0,1751.097835,47.0,1473.660727
+Brazil,Chile,3,0,Round of 16,2010,2,6.0,1765.856297,55.0,1452.939983
+Germany,England,4,1,Round of 16,2010,2,10.0,1735.771984,4.0,1827.048678
+Argentina,Mexico,3,1,Round of 16,2010,2,1.0,1876.118331,14.0,1687.481759
+Uruguay,Korea Republic,2,1,Round of 16,2010,2,16.0,1673.068603,25.0,1591.630886
+Portugal,Brazil,0,0,Group stage,2010,1,5.0,1766.177547,6.0,1765.856297
+Korea DPR,Côte d'Ivoire,0,3,Group stage,2010,0,120.0,1151.052136,33.0,1540.869533
+Chile,Spain,1,2,Group stage,2010,0,55.0,1452.939983,2.0,1873.013187
+Switzerland,Honduras,0,0,Group stage,2010,1,19.0,1650.064179,65.0,1378.970301
+Paraguay,New Zealand,0,0,Group stage,2010,1,40.0,1505.349689,85.0,1275.581062
+Slovakia,Italy,3,2,Group stage,2010,2,47.0,1473.660727,12.0,1704.733836
+Denmark,Japan,1,3,Group stage,2010,0,21.0,1619.474248,18.0,1661.576187
+Cameroon,Netherlands,1,2,Group stage,2010,0,44.0,1481.235245,8.0,1751.097835
+Slovenia,England,0,1,Group stage,2010,0,59.0,1441.087158,4.0,1827.048678
+Ghana,Germany,0,1,Group stage,2010,0,73.0,1346.881205,10.0,1735.771984
+Australia,Serbia,2,1,Group stage,2010,2,27.0,1579.34264,43.0,1502.133186
+Mexico,Uruguay,0,1,Group stage,2010,0,14.0,1687.481759,16.0,1673.068603
+France,South Africa,1,2,Group stage,2010,0,3.0,1869.428449,60.0,1428.379282
+Nigeria,Korea Republic,2,2,Group stage,2010,1,26.0,1586.688586,25.0,1591.630886
+Greece,Argentina,0,2,Group stage,2010,0,48.0,1473.187305,1.0,1876.118331
+Portugal,Korea DPR,7,0,Group stage,2010,2,5.0,1766.177547,120.0,1151.052136
+Chile,Switzerland,1,0,Group stage,2010,2,55.0,1452.939983,19.0,1650.064179
+Spain,Honduras,2,0,Group stage,2010,2,2.0,1873.013187,65.0,1378.970301
+Slovakia,Paraguay,0,2,Group stage,2010,0,47.0,1473.660727,40.0,1505.349689
+Italy,New Zealand,1,1,Group stage,2010,1,12.0,1704.733836,85.0,1275.581062
+Brazil,Côte d'Ivoire,3,1,Group stage,2010,2,6.0,1765.856297,33.0,1540.869533
+Netherlands,Japan,1,0,Group stage,2010,2,8.0,1751.097835,18.0,1661.576187
+Ghana,Australia,1,1,Group stage,2010,1,73.0,1346.881205,27.0,1579.34264
+Cameroon,Denmark,1,2,Group stage,2010,0,44.0,1481.235245,21.0,1619.474248
+Germany,Serbia,0,1,Group stage,2010,0,10.0,1735.771984,43.0,1502.133186
+England,Algeria,0,0,Group stage,2010,1,4.0,1827.048678,28.0,1571.033293
+Argentina,Korea Republic,4,1,Group stage,2010,2,1.0,1876.118331,25.0,1591.630886
+Greece,Nigeria,2,1,Group stage,2010,2,48.0,1473.187305,26.0,1586.688586
+France,Mexico,0,2,Group stage,2010,0,3.0,1869.428449,14.0,1687.481759
+Honduras,Chile,0,1,Group stage,2010,0,65.0,1378.970301,55.0,1452.939983
+Spain,Switzerland,0,1,Group stage,2010,0,2.0,1873.013187,19.0,1650.064179
+South Africa,Uruguay,0,3,Group stage,2010,0,60.0,1428.379282,16.0,1673.068603
+New Zealand,Slovakia,1,1,Group stage,2010,1,85.0,1275.581062,47.0,1473.660727
+Côte d'Ivoire,Portugal,0,0,Group stage,2010,1,33.0,1540.869533,5.0,1766.177547
+Brazil,Korea DPR,2,1,Group stage,2010,2,6.0,1765.856297,120.0,1151.052136
+Netherlands,Denmark,2,0,Group stage,2010,2,8.0,1751.097835,21.0,1619.474248
+Japan,Cameroon,1,0,Group stage,2010,2,18.0,1661.576187,44.0,1481.235245
+Italy,Paraguay,1,1,Group stage,2010,1,12.0,1704.733836,40.0,1505.349689
+Algeria,Slovenia,0,1,Group stage,2010,0,28.0,1571.033293,59.0,1441.087158
+Serbia,Ghana,0,1,Group stage,2010,0,43.0,1502.133186,73.0,1346.881205
+Germany,Australia,4,0,Group stage,2010,2,10.0,1735.771984,27.0,1579.34264
+Korea Republic,Greece,2,0,Group stage,2010,2,25.0,1591.630886,48.0,1473.187305
+Argentina,Nigeria,1,0,Group stage,2010,2,1.0,1876.118331,26.0,1586.688586
+South Africa,Mexico,1,1,Group stage,2010,1,60.0,1428.379282,14.0,1687.481759
+Uruguay,France,0,0,Group stage,2010,1,16.0,1673.068603,3.0,1869.428449
+Italy,France,1,1,Final,2006,1,12.0,1704.733836,3.0,1869.428449
+Germany,Portugal,3,1,Third-place match,2006,2,10.0,1735.771984,5.0,1766.177547
+Portugal,France,0,1,Semi-finals,2006,0,5.0,1766.177547,3.0,1869.428449
+Germany,Italy,0,2,Semi-finals,2006,0,10.0,1735.771984,12.0,1704.733836
+England,Portugal,0,0,Quarter-finals,2006,1,4.0,1827.048678,5.0,1766.177547
+Brazil,France,0,1,Quarter-finals,2006,0,6.0,1765.856297,3.0,1869.428449
+Germany,Argentina,1,1,Quarter-finals,2006,1,10.0,1735.771984,1.0,1876.118331
+Italy,Ukraine,3,0,Quarter-finals,2006,2,12.0,1704.733836,32.0,1549.287173
+Brazil,Ghana,3,0,Round of 16,2006,2,6.0,1765.856297,73.0,1346.881205
+Spain,France,1,3,Round of 16,2006,0,2.0,1873.013187,3.0,1869.428449
+Italy,Australia,1,0,Round of 16,2006,2,12.0,1704.733836,27.0,1579.34264
+Switzerland,Ukraine,0,0,Round of 16,2006,1,19.0,1650.064179,32.0,1549.287173
+England,Ecuador,1,0,Round of 16,2006,2,4.0,1827.048678,23.0,1598.51582
+Portugal,Netherlands,1,0,Round of 16,2006,2,5.0,1766.177547,8.0,1751.097835
+Germany,Sweden,2,0,Round of 16,2006,2,10.0,1735.771984,38.0,1509.785392
+Argentina,Mexico,2,1,Round of 16,2006,2,1.0,1876.118331,14.0,1687.481759
+Saudi Arabia,Spain,0,1,Group stage,2006,0,61.0,1421.538339,2.0,1873.013187
+Ukraine,Tunisia,1,0,Group stage,2006,2,32.0,1549.287173,46.0,1476.405088
+Togo,France,0,2,Group stage,2006,0,122.0,1146.703618,3.0,1869.428449
+Switzerland,Korea Republic,2,0,Group stage,2006,2,19.0,1650.064179,25.0,1591.630886
+Japan,Brazil,1,4,Group stage,2006,0,18.0,1661.576187,6.0,1765.856297
+Croatia,Australia,2,2,Group stage,2006,1,11.0,1714.865572,27.0,1579.34264
+Portugal,Mexico,2,1,Group stage,2006,2,5.0,1766.177547,14.0,1687.481759
+IR Iran,Angola,1,1,Group stage,2006,1,20.0,1619.58163,89.0,1262.219698
+Netherlands,Argentina,0,0,Group stage,2006,1,8.0,1751.097835,1.0,1876.118331
+Costa Rica,Poland,1,2,Group stage,2006,0,52.0,1457.00228,36.0,1526.183359
+Ecuador,Germany,0,3,Group stage,2006,0,23.0,1598.51582,10.0,1735.771984
+Paraguay,Trinidad and Tobago,2,0,Group stage,2006,2,40.0,1505.349689,103.0,1221.951833
+Sweden,England,2,2,Group stage,2006,1,38.0,1509.785392,4.0,1827.048678
+Togo,Switzerland,0,2,Group stage,2006,0,122.0,1146.703618,19.0,1650.064179
+Saudi Arabia,Ukraine,0,4,Group stage,2006,0,61.0,1421.538339,32.0,1549.287173
+Spain,Tunisia,3,1,Group stage,2006,2,2.0,1873.013187,46.0,1476.405088
+Japan,Croatia,0,0,Group stage,2006,1,18.0,1661.576187,11.0,1714.865572
+Brazil,Australia,2,0,Group stage,2006,2,6.0,1765.856297,27.0,1579.34264
+France,Korea Republic,1,1,Group stage,2006,1,3.0,1869.428449,25.0,1591.630886
+Portugal,IR Iran,2,0,Group stage,2006,2,5.0,1766.177547,20.0,1619.58163
+Netherlands,Côte d'Ivoire,2,1,Group stage,2006,2,8.0,1751.097835,33.0,1540.869533
+Mexico,Angola,0,0,Group stage,2006,1,14.0,1687.481759,89.0,1262.219698
+Ecuador,Costa Rica,3,0,Group stage,2006,2,23.0,1598.51582,52.0,1457.00228
+England,Trinidad and Tobago,2,0,Group stage,2006,2,4.0,1827.048678,103.0,1221.951833
+Sweden,Paraguay,1,0,Group stage,2006,2,38.0,1509.785392,40.0,1505.349689
+Spain,Ukraine,4,0,Group stage,2006,2,2.0,1873.013187,32.0,1549.287173
+Tunisia,Saudi Arabia,2,2,Group stage,2006,1,46.0,1476.405088,61.0,1421.538339
+Germany,Poland,1,0,Group stage,2006,2,10.0,1735.771984,36.0,1526.183359
+Korea Republic,Togo,2,1,Group stage,2006,2,25.0,1591.630886,122.0,1146.703618
+France,Switzerland,0,0,Group stage,2006,1,3.0,1869.428449,19.0,1650.064179
+Brazil,Croatia,1,0,Group stage,2006,2,6.0,1765.856297,11.0,1714.865572
+Australia,Japan,3,1,Group stage,2006,2,27.0,1579.34264,18.0,1661.576187
+Italy,Ghana,2,0,Group stage,2006,2,12.0,1704.733836,73.0,1346.881205
+Mexico,IR Iran,3,1,Group stage,2006,2,14.0,1687.481759,20.0,1619.58163
+Angola,Portugal,0,1,Group stage,2006,0,89.0,1262.219698,5.0,1766.177547
+England,Paraguay,1,0,Group stage,2006,2,4.0,1827.048678,40.0,1505.349689
+Trinidad and Tobago,Sweden,0,0,Group stage,2006,1,103.0,1221.951833,38.0,1509.785392
+Argentina,Côte d'Ivoire,2,1,Group stage,2006,2,1.0,1876.118331,33.0,1540.869533
+Germany,Costa Rica,4,2,Group stage,2006,2,10.0,1735.771984,52.0,1457.00228
+Poland,Ecuador,0,2,Group stage,2006,0,36.0,1526.183359,23.0,1598.51582
+Germany,Brazil,0,2,Final,2002,0,10.0,1735.771984,6.0,1765.856297
+Korea Republic,Türkiye,2,3,Third-place match,2002,0,25.0,1591.630886,22.0,1605.730921
+Brazil,Türkiye,1,0,Semi-finals,2002,2,6.0,1765.856297,22.0,1605.730921
+Germany,Korea Republic,1,0,Semi-finals,2002,2,10.0,1735.771984,25.0,1591.630886
+Spain,Korea Republic,0,0,Quarter-finals,2002,1,2.0,1873.013187,25.0,1591.630886
+Senegal,Türkiye,0,1,Quarter-finals,2002,0,15.0,1686.412769,22.0,1605.730921
+England,Brazil,1,2,Quarter-finals,2002,0,4.0,1827.048678,6.0,1765.856297
+Japan,Türkiye,0,1,Round of 16,2002,0,18.0,1661.576187,22.0,1605.730921
+Korea Republic,Italy,2,1,Round of 16,2002,2,25.0,1591.630886,12.0,1704.733836
+Brazil,Belgium,2,0,Round of 16,2002,2,6.0,1765.856297,9.0,1742.235945
+Sweden,Senegal,1,2,Round of 16,2002,0,38.0,1509.785392,15.0,1686.412769
+Spain,Republic of Ireland,1,1,Round of 16,2002,1,2.0,1873.013187,58.0,1441.096901
+Germany,Paraguay,1,0,Round of 16,2002,2,10.0,1735.771984,40.0,1505.349689
+Denmark,England,0,3,Round of 16,2002,0,21.0,1619.474248,4.0,1827.048678
+Tunisia,Japan,0,2,Group stage,2002,0,46.0,1476.405088,18.0,1661.576187
+Belgium,Russia,3,2,Group stage,2002,2,9.0,1742.235945,35.0,1527.237131
+Portugal,Korea Republic,0,1,Group stage,2002,0,5.0,1766.177547,25.0,1591.630886
+Costa Rica,Brazil,2,5,Group stage,2002,0,52.0,1457.00228,6.0,1765.856297
+Türkiye,China PR,3,0,Group stage,2002,2,22.0,1605.730921,92.0,1254.848285
+Mexico,Italy,1,1,Group stage,2002,1,14.0,1687.481759,12.0,1704.733836
+Ecuador,Croatia,1,0,Group stage,2002,2,23.0,1598.51582,11.0,1714.865572
+Sweden,Argentina,1,1,Group stage,2002,1,38.0,1509.785392,1.0,1876.118331
+Nigeria,England,0,0,Group stage,2002,1,26.0,1586.688586,4.0,1827.048678
+South Africa,Spain,2,3,Group stage,2002,0,60.0,1428.379282,2.0,1873.013187
+Slovenia,Paraguay,1,3,Group stage,2002,0,59.0,1441.087158,40.0,1505.349689
+Denmark,France,2,0,Group stage,2002,2,21.0,1619.474248,3.0,1869.428449
+Senegal,Uruguay,3,3,Group stage,2002,1,15.0,1686.412769,16.0,1673.068603
+Saudi Arabia,Republic of Ireland,0,3,Group stage,2002,0,61.0,1421.538339,58.0,1441.096901
+Cameroon,Germany,0,2,Group stage,2002,0,44.0,1481.235245,10.0,1735.771984
+Tunisia,Belgium,1,1,Group stage,2002,1,46.0,1476.405088,9.0,1742.235945
+Portugal,Poland,4,0,Group stage,2002,2,5.0,1766.177547,36.0,1526.183359
+Mexico,Ecuador,2,1,Group stage,2002,2,14.0,1687.481759,23.0,1598.51582
+Costa Rica,Türkiye,1,1,Group stage,2002,1,52.0,1457.00228,22.0,1605.730921
+Japan,Russia,1,0,Group stage,2002,2,18.0,1661.576187,35.0,1527.237131
+South Africa,Slovenia,1,0,Group stage,2002,2,60.0,1428.379282,59.0,1441.087158
+Italy,Croatia,1,2,Group stage,2002,0,12.0,1704.733836,11.0,1714.865572
+Brazil,China PR,4,0,Group stage,2002,2,6.0,1765.856297,92.0,1254.848285
+Sweden,Nigeria,2,1,Group stage,2002,2,38.0,1509.785392,26.0,1586.688586
+Spain,Paraguay,3,1,Group stage,2002,2,2.0,1873.013187,40.0,1505.349689
+Argentina,England,0,1,Group stage,2002,0,1.0,1876.118331,4.0,1827.048678
+Denmark,Senegal,1,1,Group stage,2002,1,21.0,1619.474248,15.0,1686.412769
+Cameroon,Saudi Arabia,1,0,Group stage,2002,2,44.0,1481.235245,61.0,1421.538339
+France,Uruguay,0,0,Group stage,2002,1,3.0,1869.428449,16.0,1673.068603
+Russia,Tunisia,2,0,Group stage,2002,2,35.0,1527.237131,46.0,1476.405088
+Germany,Republic of Ireland,1,1,Group stage,2002,1,10.0,1735.771984,58.0,1441.096901
+China PR,Costa Rica,0,2,Group stage,2002,0,92.0,1254.848285,52.0,1457.00228
+Japan,Belgium,2,2,Group stage,2002,1,18.0,1661.576187,9.0,1742.235945
+Korea Republic,Poland,2,0,Group stage,2002,2,25.0,1591.630886,36.0,1526.183359
+Croatia,Mexico,0,1,Group stage,2002,0,11.0,1714.865572,14.0,1687.481759
+Brazil,Türkiye,2,1,Group stage,2002,2,6.0,1765.856297,22.0,1605.730921
+Italy,Ecuador,2,0,Group stage,2002,2,12.0,1704.733836,23.0,1598.51582
+Argentina,Nigeria,1,0,Group stage,2002,2,1.0,1876.118331,26.0,1586.688586
+Paraguay,South Africa,2,2,Group stage,2002,1,40.0,1505.349689,60.0,1428.379282
+England,Sweden,1,1,Group stage,2002,1,4.0,1827.048678,38.0,1509.785392
+Spain,Slovenia,3,1,Group stage,2002,2,2.0,1873.013187,59.0,1441.087158
+Republic of Ireland,Cameroon,1,1,Group stage,2002,1,58.0,1441.096901,44.0,1481.235245
+Uruguay,Denmark,1,2,Group stage,2002,0,16.0,1673.068603,21.0,1619.474248
+Germany,Saudi Arabia,8,0,Group stage,2002,2,10.0,1735.771984,61.0,1421.538339
+France,Senegal,0,1,Group stage,2002,0,3.0,1869.428449,15.0,1686.412769
+Brazil,France,0,3,Final,1998,0,6.0,1765.856297,3.0,1869.428449
+Netherlands,Croatia,1,2,Third-place match,1998,0,8.0,1751.097835,11.0,1714.865572
+France,Croatia,2,1,Semi-finals,1998,2,3.0,1869.428449,11.0,1714.865572
+Brazil,Netherlands,1,1,Semi-finals,1998,1,6.0,1765.856297,8.0,1751.097835
+Netherlands,Argentina,2,1,Quarter-finals,1998,2,8.0,1751.097835,1.0,1876.118331
+Germany,Croatia,0,3,Quarter-finals,1998,0,10.0,1735.771984,11.0,1714.865572
+Italy,France,0,0,Quarter-finals,1998,1,12.0,1704.733836,3.0,1869.428449
+Brazil,Denmark,3,2,Quarter-finals,1998,2,6.0,1765.856297,21.0,1619.474248
+Romania,Croatia,0,1,Round of 16,1998,0,53.0,1455.894657,11.0,1714.865572
+Argentina,England,2,2,Round of 16,1998,1,1.0,1876.118331,4.0,1827.048678
+Germany,Mexico,2,1,Round of 16,1998,2,10.0,1735.771984,14.0,1687.481759
+France,Paraguay,1,0,Round of 16,1998,2,3.0,1869.428449,40.0,1505.349689
+Nigeria,Denmark,1,4,Round of 16,1998,0,26.0,1586.688586,21.0,1619.474248
+Italy,Norway,1,0,Round of 16,1998,2,12.0,1704.733836,31.0,1557.437664
+Brazil,Chile,4,1,Round of 16,1998,2,6.0,1765.856297,55.0,1452.939983
+Argentina,Croatia,1,0,Group stage,1998,2,1.0,1876.118331,11.0,1714.865572
+Japan,Jamaica,1,2,Group stage,1998,0,18.0,1661.576187,71.0,1357.840144
+Romania,Tunisia,1,1,Group stage,1998,1,53.0,1455.894657,46.0,1476.405088
+Colombia,England,0,2,Group stage,1998,0,13.0,1698.351858,4.0,1827.048678
+Netherlands,Mexico,2,2,Group stage,1998,1,8.0,1751.097835,14.0,1687.481759
+Belgium,Korea Republic,1,1,Group stage,1998,1,9.0,1742.235945,25.0,1591.630886
+Germany,IR Iran,2,0,Group stage,1998,2,10.0,1735.771984,20.0,1619.58163
+South Africa,Saudi Arabia,2,2,Group stage,1998,1,60.0,1428.379282,61.0,1421.538339
+France,Denmark,2,1,Group stage,1998,2,3.0,1869.428449,21.0,1619.474248
+Spain,Bulgaria,6,1,Group stage,1998,2,2.0,1873.013187,87.0,1271.683325
+Nigeria,Paraguay,1,3,Group stage,1998,0,26.0,1586.688586,40.0,1505.349689
+Italy,Austria,2,1,Group stage,1998,2,12.0,1704.733836,24.0,1597.404087
+Chile,Cameroon,1,1,Group stage,1998,1,55.0,1452.939983,44.0,1481.235245
+Brazil,Norway,1,2,Group stage,1998,0,6.0,1765.856297,31.0,1557.437664
+Scotland,Morocco,0,3,Group stage,1998,0,42.0,1503.34027,7.0,1755.100232
+Colombia,Tunisia,1,0,Group stage,1998,2,13.0,1698.351858,46.0,1476.405088
+Romania,England,2,1,Group stage,1998,2,53.0,1455.894657,4.0,1827.048678
+Argentina,Jamaica,5,0,Group stage,1998,2,1.0,1876.118331,71.0,1357.840144
+Japan,Croatia,0,1,Group stage,1998,0,18.0,1661.576187,11.0,1714.865572
+Belgium,Mexico,2,2,Group stage,1998,1,9.0,1742.235945,14.0,1687.481759
+Netherlands,Korea Republic,5,0,Group stage,1998,2,8.0,1751.097835,25.0,1591.630886
+Nigeria,Bulgaria,1,0,Group stage,1998,2,26.0,1586.688586,87.0,1271.683325
+Spain,Paraguay,0,0,Group stage,1998,1,2.0,1873.013187,40.0,1505.349689
+South Africa,Denmark,1,1,Group stage,1998,1,60.0,1428.379282,21.0,1619.474248
+France,Saudi Arabia,4,0,Group stage,1998,2,3.0,1869.428449,61.0,1421.538339
+Chile,Austria,1,1,Group stage,1998,1,55.0,1452.939983,24.0,1597.404087
+Italy,Cameroon,3,0,Group stage,1998,2,12.0,1704.733836,44.0,1481.235245
+Scotland,Norway,1,1,Group stage,1998,1,42.0,1503.34027,31.0,1557.437664
+Brazil,Morocco,3,0,Group stage,1998,2,6.0,1765.856297,7.0,1755.100232
+England,Tunisia,2,0,Group stage,1998,2,4.0,1827.048678,46.0,1476.405088
+Romania,Colombia,1,0,Group stage,1998,2,53.0,1455.894657,13.0,1698.351858
+Argentina,Japan,1,0,Group stage,1998,2,1.0,1876.118331,18.0,1661.576187
+Jamaica,Croatia,1,3,Group stage,1998,0,71.0,1357.840144,11.0,1714.865572
+Spain,Nigeria,2,3,Group stage,1998,0,2.0,1873.013187,26.0,1586.688586
+Korea Republic,Mexico,1,3,Group stage,1998,0,25.0,1591.630886,14.0,1687.481759
+Netherlands,Belgium,0,0,Group stage,1998,1,8.0,1751.097835,9.0,1742.235945
+Paraguay,Bulgaria,0,0,Group stage,1998,1,40.0,1505.349689,87.0,1271.683325
+Saudi Arabia,Denmark,0,1,Group stage,1998,0,61.0,1421.538339,21.0,1619.474248
+France,South Africa,3,0,Group stage,1998,2,3.0,1869.428449,60.0,1428.379282
+Italy,Chile,2,2,Group stage,1998,1,12.0,1704.733836,55.0,1452.939983
+Cameroon,Austria,1,1,Group stage,1998,1,44.0,1481.235245,24.0,1597.404087
+Brazil,Scotland,2,1,Group stage,1998,2,6.0,1765.856297,42.0,1503.34027
+Morocco,Norway,2,2,Group stage,1998,1,7.0,1755.100232,31.0,1557.437664
+Brazil,Italy,0,0,Final,1994,1,6.0,1765.856297,12.0,1704.733836
+Sweden,Bulgaria,4,0,Third-place match,1994,2,38.0,1509.785392,87.0,1271.683325
+Bulgaria,Italy,1,2,Semi-finals,1994,0,87.0,1271.683325,12.0,1704.733836
+Sweden,Brazil,0,1,Semi-finals,1994,0,38.0,1509.785392,6.0,1765.856297
+Bulgaria,Germany,2,1,Quarter-finals,1994,2,87.0,1271.683325,10.0,1735.771984
+Romania,Sweden,2,2,Quarter-finals,1994,1,53.0,1455.894657,38.0,1509.785392
+Italy,Spain,2,1,Quarter-finals,1994,2,12.0,1704.733836,2.0,1873.013187
+Netherlands,Brazil,2,3,Quarter-finals,1994,0,8.0,1751.097835,6.0,1765.856297
+Nigeria,Italy,1,2,Round of 16,1994,0,26.0,1586.688586,12.0,1704.733836
+Mexico,Bulgaria,1,1,Round of 16,1994,1,14.0,1687.481759,87.0,1271.683325
+Netherlands,Republic of Ireland,2,0,Round of 16,1994,2,8.0,1751.097835,58.0,1441.096901
+Saudi Arabia,Sweden,1,3,Round of 16,1994,0,61.0,1421.538339,38.0,1509.785392
+Romania,Argentina,3,2,Round of 16,1994,2,53.0,1455.894657,1.0,1876.118331
+Germany,Belgium,3,2,Round of 16,1994,2,10.0,1735.771984,9.0,1742.235945
+Spain,Switzerland,3,0,Round of 16,1994,2,2.0,1873.013187,19.0,1650.064179
+Greece,Nigeria,0,2,Group stage,1994,0,48.0,1473.187305,26.0,1586.688586
+Argentina,Bulgaria,0,2,Group stage,1994,0,1.0,1876.118331,87.0,1271.683325
+Morocco,Netherlands,1,2,Group stage,1994,0,7.0,1755.100232,8.0,1751.097835
+Belgium,Saudi Arabia,0,1,Group stage,1994,0,9.0,1742.235945,61.0,1421.538339
+Italy,Mexico,1,1,Group stage,1994,1,12.0,1704.733836,14.0,1687.481759
+Republic of Ireland,Norway,0,0,Group stage,1994,1,58.0,1441.096901,31.0,1557.437664
+Russia,Cameroon,6,1,Group stage,1994,2,35.0,1527.237131,44.0,1481.235245
+Brazil,Sweden,1,1,Group stage,1994,1,6.0,1765.856297,38.0,1509.785392
+Germany,Korea Republic,3,2,Group stage,1994,2,10.0,1735.771984,25.0,1591.630886
+Bolivia,Spain,1,3,Group stage,1994,0,77.0,1325.995377,2.0,1873.013187
+Bulgaria,Greece,4,0,Group stage,1994,2,87.0,1271.683325,48.0,1473.187305
+Switzerland,Colombia,0,2,Group stage,1994,0,19.0,1650.064179,13.0,1698.351858
+Belgium,Netherlands,1,0,Group stage,1994,2,9.0,1742.235945,8.0,1751.097835
+Saudi Arabia,Morocco,2,1,Group stage,1994,2,61.0,1421.538339,7.0,1755.100232
+Argentina,Nigeria,2,1,Group stage,1994,2,1.0,1876.118331,26.0,1586.688586
+Mexico,Republic of Ireland,2,1,Group stage,1994,2,14.0,1687.481759,58.0,1441.096901
+Brazil,Cameroon,3,0,Group stage,1994,2,6.0,1765.856297,44.0,1481.235245
+Sweden,Russia,3,1,Group stage,1994,2,38.0,1509.785392,35.0,1527.237131
+Italy,Norway,1,0,Group stage,1994,2,12.0,1704.733836,31.0,1557.437664
+Korea Republic,Bolivia,0,0,Group stage,1994,1,25.0,1591.630886,77.0,1325.995377
+Romania,Switzerland,1,4,Group stage,1994,0,53.0,1455.894657,19.0,1650.064179
+Argentina,Greece,4,0,Group stage,1994,2,1.0,1876.118331,48.0,1473.187305
+Germany,Spain,1,1,Group stage,1994,1,10.0,1735.771984,2.0,1873.013187
+Nigeria,Bulgaria,3,0,Group stage,1994,2,26.0,1586.688586,87.0,1271.683325
+Brazil,Russia,2,0,Group stage,1994,2,6.0,1765.856297,35.0,1527.237131
+Netherlands,Saudi Arabia,2,1,Group stage,1994,2,8.0,1751.097835,61.0,1421.538339
+Belgium,Morocco,1,0,Group stage,1994,2,9.0,1742.235945,7.0,1755.100232
+Norway,Mexico,1,0,Group stage,1994,2,31.0,1557.437664,14.0,1687.481759
+Cameroon,Sweden,2,2,Group stage,1994,1,44.0,1481.235245,38.0,1509.785392
+Italy,Republic of Ireland,0,1,Group stage,1994,0,12.0,1704.733836,58.0,1441.096901
+Colombia,Romania,1,3,Group stage,1994,0,13.0,1698.351858,53.0,1455.894657
+Germany,Bolivia,1,0,Group stage,1994,2,10.0,1735.771984,77.0,1325.995377
+Spain,Korea Republic,2,2,Group stage,1994,1,2.0,1873.013187,25.0,1591.630886
+Italy,England,2,1,Third-place match,1990,2,12.0,1704.733836,4.0,1827.048678
+Italy,Argentina,1,1,Semi-finals,1990,1,12.0,1704.733836,1.0,1876.118331
+England,Cameroon,3,2,Quarter-finals,1990,2,4.0,1827.048678,44.0,1481.235245
+Italy,Republic of Ireland,1,0,Quarter-finals,1990,2,12.0,1704.733836,58.0,1441.096901
+England,Belgium,1,0,Round of 16,1990,2,4.0,1827.048678,9.0,1742.235945
+Republic of Ireland,Romania,0,0,Round of 16,1990,1,58.0,1441.096901,53.0,1455.894657
+Italy,Uruguay,2,0,Round of 16,1990,2,12.0,1704.733836,16.0,1673.068603
+Brazil,Argentina,0,1,Round of 16,1990,0,6.0,1765.856297,1.0,1876.118331
+Cameroon,Colombia,2,1,Round of 16,1990,2,44.0,1481.235245,13.0,1698.351858
+Belgium,Spain,1,2,Group stage,1990,0,9.0,1742.235945,2.0,1873.013187
+Korea Republic,Uruguay,0,1,Group stage,1990,0,25.0,1591.630886,16.0,1673.068603
+Republic of Ireland,Netherlands,1,1,Group stage,1990,1,58.0,1441.096901,8.0,1751.097835
+England,Egypt,1,0,Group stage,1990,2,4.0,1827.048678,29.0,1562.367246
+Sweden,Costa Rica,1,2,Group stage,1990,0,38.0,1509.785392,52.0,1457.00228
+Brazil,Scotland,1,0,Group stage,1990,2,6.0,1765.856297,42.0,1503.34027
+Argentina,Romania,1,1,Group stage,1990,1,1.0,1876.118331,53.0,1455.894657
+Republic of Ireland,Egypt,0,0,Group stage,1990,1,58.0,1441.096901,29.0,1562.367246
+Belgium,Uruguay,3,1,Group stage,1990,2,9.0,1742.235945,16.0,1673.068603
+Korea Republic,Spain,1,3,Group stage,1990,0,25.0,1591.630886,2.0,1873.013187
+Brazil,Costa Rica,1,0,Group stage,1990,2,6.0,1765.856297,52.0,1457.00228
+England,Netherlands,0,0,Group stage,1990,1,4.0,1827.048678,8.0,1751.097835
+Sweden,Scotland,1,2,Group stage,1990,0,38.0,1509.785392,42.0,1503.34027
+Cameroon,Romania,2,1,Group stage,1990,2,44.0,1481.235245,53.0,1455.894657
+Uruguay,Spain,0,0,Group stage,1990,1,16.0,1673.068603,2.0,1873.013187
+Belgium,Korea Republic,2,0,Group stage,1990,2,9.0,1742.235945,25.0,1591.630886
+Netherlands,Egypt,1,1,Group stage,1990,1,8.0,1751.097835,29.0,1562.367246
+Costa Rica,Scotland,1,0,Group stage,1990,2,52.0,1457.00228,42.0,1503.34027
+England,Republic of Ireland,1,1,Group stage,1990,1,4.0,1827.048678,58.0,1441.096901
+Brazil,Sweden,2,1,Group stage,1990,2,6.0,1765.856297,38.0,1509.785392
+United Arab Emirates,Colombia,0,2,Group stage,1990,0,68.0,1370.469434,13.0,1698.351858
+Italy,Austria,1,0,Group stage,1990,2,12.0,1704.733836,24.0,1597.404087
+Argentina,Cameroon,0,1,Group stage,1990,0,1.0,1876.118331,44.0,1481.235245
+France,Belgium,4,2,Third-place match,1986,2,3.0,1869.428449,9.0,1742.235945
+Argentina,Belgium,2,0,Semi-finals,1986,2,1.0,1876.118331,9.0,1742.235945
+Argentina,England,2,1,Quarter-finals,1986,2,1.0,1876.118331,4.0,1827.048678
+Spain,Belgium,1,1,Quarter-finals,1986,1,2.0,1873.013187,9.0,1742.235945
+Brazil,France,1,1,Quarter-finals,1986,1,6.0,1765.856297,3.0,1869.428449
+England,Paraguay,3,0,Round of 16,1986,2,4.0,1827.048678,40.0,1505.349689
+Denmark,Spain,1,5,Round of 16,1986,0,21.0,1619.474248,2.0,1873.013187
+Italy,France,0,2,Round of 16,1986,0,12.0,1704.733836,3.0,1869.428449
+Brazil,Poland,4,0,Round of 16,1986,2,6.0,1765.856297,36.0,1526.183359
+Argentina,Uruguay,1,0,Round of 16,1986,2,1.0,1876.118331,16.0,1673.068603
+Mexico,Bulgaria,2,0,Round of 16,1986,2,14.0,1687.481759,87.0,1271.683325
+Scotland,Uruguay,0,0,Group stage,1986,1,42.0,1503.34027,16.0,1673.068603
+Algeria,Spain,0,3,Group stage,1986,0,28.0,1571.033293,2.0,1873.013187
+Northern Ireland,Brazil,0,3,Group stage,1986,0,70.0,1366.564198,6.0,1765.856297
+Paraguay,Belgium,2,2,Group stage,1986,1,40.0,1505.349689,9.0,1742.235945
+Iraq,Mexico,0,1,Group stage,1986,0,56.0,1451.153466,14.0,1687.481759
+England,Poland,3,0,Group stage,1986,2,4.0,1827.048678,36.0,1526.183359
+Portugal,Morocco,1,3,Group stage,1986,0,5.0,1766.177547,7.0,1755.100232
+Argentina,Bulgaria,2,0,Group stage,1986,2,1.0,1876.118331,87.0,1271.683325
+Korea Republic,Italy,2,3,Group stage,1986,0,25.0,1591.630886,12.0,1704.733836
+Hungary,France,0,3,Group stage,1986,0,41.0,1504.135797,3.0,1869.428449
+Iraq,Belgium,1,2,Group stage,1986,0,56.0,1451.153466,9.0,1742.235945
+Denmark,Uruguay,6,1,Group stage,1986,2,21.0,1619.474248,16.0,1673.068603
+Mexico,Paraguay,1,1,Group stage,1986,1,14.0,1687.481759,40.0,1505.349689
+Northern Ireland,Spain,1,2,Group stage,1986,0,70.0,1366.564198,2.0,1873.013187
+Poland,Portugal,1,0,Group stage,1986,2,36.0,1526.183359,5.0,1766.177547
+Brazil,Algeria,1,0,Group stage,1986,2,6.0,1765.856297,28.0,1571.033293
+Hungary,Canada,2,0,Group stage,1986,2,41.0,1504.135797,30.0,1559.479301
+England,Morocco,0,0,Group stage,1986,1,4.0,1827.048678,7.0,1755.100232
+Italy,Argentina,1,1,Group stage,1986,1,12.0,1704.733836,1.0,1876.118331
+Korea Republic,Bulgaria,1,1,Group stage,1986,1,25.0,1591.630886,87.0,1271.683325
+Paraguay,Iraq,1,0,Group stage,1986,2,40.0,1505.349689,56.0,1451.153466
+Scotland,Denmark,0,1,Group stage,1986,0,42.0,1503.34027,21.0,1619.474248
+Belgium,Mexico,1,2,Group stage,1986,0,9.0,1742.235945,14.0,1687.481759
+Algeria,Northern Ireland,1,1,Group stage,1986,1,28.0,1571.033293,70.0,1366.564198
+Portugal,England,1,0,Group stage,1986,2,5.0,1766.177547,4.0,1827.048678
+Argentina,Korea Republic,3,1,Group stage,1986,2,1.0,1876.118331,25.0,1591.630886
+Morocco,Poland,0,0,Group stage,1986,1,7.0,1755.100232,36.0,1526.183359
+Spain,Brazil,0,1,Group stage,1986,0,2.0,1873.013187,6.0,1765.856297
+Canada,France,0,1,Group stage,1986,0,30.0,1559.479301,3.0,1869.428449
+Bulgaria,Italy,1,1,Group stage,1986,1,87.0,1271.683325,12.0,1704.733836
+Poland,France,3,2,Third-place match,1982,2,36.0,1526.183359,3.0,1869.428449
+Poland,Italy,0,2,Semi-finals,1982,0,36.0,1526.183359,12.0,1704.733836
+Italy,Brazil,3,2,Second group stage,1982,2,12.0,1704.733836,6.0,1765.856297
+Spain,England,0,0,Second group stage,1982,1,2.0,1873.013187,4.0,1827.048678
+France,Northern Ireland,4,1,Second group stage,1982,2,3.0,1869.428449,70.0,1366.564198
+Argentina,Brazil,1,3,Second group stage,1982,0,1.0,1876.118331,6.0,1765.856297
+Austria,Northern Ireland,2,2,Second group stage,1982,1,24.0,1597.404087,70.0,1366.564198
+Italy,Argentina,2,1,Second group stage,1982,2,12.0,1704.733836,1.0,1876.118331
+Austria,France,0,1,Second group stage,1982,0,24.0,1597.404087,3.0,1869.428449
+Poland,Belgium,3,0,Second group stage,1982,2,36.0,1526.183359,9.0,1742.235945
+England,Kuwait,1,0,First group stage,1982,2,4.0,1827.048678,133.0,1106.474587
+Northern Ireland,Spain,1,0,First group stage,1982,2,70.0,1366.564198,2.0,1873.013187
+Algeria,Chile,3,2,First group stage,1982,2,28.0,1571.033293,55.0,1452.939983
+Italy,Cameroon,1,1,First group stage,1982,1,12.0,1704.733836,44.0,1481.235245
+Argentina,El Salvador,2,0,First group stage,1982,2,1.0,1876.118331,101.0,1225.344607
+Brazil,New Zealand,4,0,First group stage,1982,2,6.0,1765.856297,85.0,1275.581062
+Poland,Peru,5,1,First group stage,1982,2,36.0,1526.183359,51.0,1459.390555
+Belgium,Hungary,1,1,First group stage,1982,1,9.0,1742.235945,41.0,1504.135797
+Algeria,Austria,0,2,First group stage,1982,0,28.0,1571.033293,24.0,1597.404087
+France,Kuwait,4,1,First group stage,1982,2,3.0,1869.428449,133.0,1106.474587
+Honduras,Northern Ireland,1,1,First group stage,1982,1,65.0,1378.970301,70.0,1366.564198
+Poland,Cameroon,0,0,First group stage,1982,1,36.0,1526.183359,44.0,1481.235245
+Belgium,El Salvador,1,0,First group stage,1982,2,9.0,1742.235945,101.0,1225.344607
+Italy,Peru,1,1,First group stage,1982,1,12.0,1704.733836,51.0,1459.390555
+Brazil,Scotland,4,1,First group stage,1982,2,6.0,1765.856297,42.0,1503.34027
+Argentina,Hungary,4,1,First group stage,1982,2,1.0,1876.118331,41.0,1504.135797
+Chile,Austria,0,1,First group stage,1982,0,55.0,1452.939983,24.0,1597.404087
+England,France,3,1,First group stage,1982,2,4.0,1827.048678,3.0,1869.428449
+Spain,Honduras,1,1,First group stage,1982,1,2.0,1873.013187,65.0,1378.970301
+Peru,Cameroon,0,0,First group stage,1982,1,51.0,1459.390555,44.0,1481.235245
+Hungary,El Salvador,10,1,First group stage,1982,2,41.0,1504.135797,101.0,1225.344607
+Scotland,New Zealand,5,2,First group stage,1982,2,42.0,1503.34027,85.0,1275.581062
+Italy,Poland,0,0,First group stage,1982,1,12.0,1704.733836,36.0,1526.183359
+Argentina,Belgium,0,1,First group stage,1982,0,1.0,1876.118331,9.0,1742.235945
+Argentina,Netherlands,3,1,Final,1978,2,1.0,1876.118331,8.0,1751.097835
+Brazil,Italy,2,1,Third-place match,1978,2,6.0,1765.856297,12.0,1704.733836
+Netherlands,Italy,2,1,Second round,1978,2,8.0,1751.097835,12.0,1704.733836
+Brazil,Poland,3,1,Second round,1978,2,6.0,1765.856297,36.0,1526.183359
+Argentina,Peru,6,0,Second round,1978,2,1.0,1876.118331,51.0,1459.390555
+Poland,Peru,1,0,Second round,1978,2,36.0,1526.183359,51.0,1459.390555
+Italy,Austria,1,0,Second round,1978,2,12.0,1704.733836,24.0,1597.404087
+Argentina,Brazil,0,0,Second round,1978,1,1.0,1876.118331,6.0,1765.856297
+Netherlands,Austria,5,1,Second round,1978,2,8.0,1751.097835,24.0,1597.404087
+Brazil,Peru,3,0,Second round,1978,2,6.0,1765.856297,51.0,1459.390555
+Argentina,Poland,2,0,Second round,1978,2,1.0,1876.118331,36.0,1526.183359
+Brazil,Austria,1,0,First round,1978,2,6.0,1765.856297,24.0,1597.404087
+Spain,Sweden,1,0,First round,1978,2,2.0,1873.013187,38.0,1509.785392
+Peru,IR Iran,4,1,First round,1978,2,51.0,1459.390555,20.0,1619.58163
+Scotland,Netherlands,3,2,First round,1978,2,42.0,1503.34027,8.0,1751.097835
+France,Hungary,3,1,First round,1978,2,3.0,1869.428449,41.0,1504.135797
+Poland,Mexico,3,1,First round,1978,2,36.0,1526.183359,14.0,1687.481759
+Italy,Argentina,1,0,First round,1978,2,12.0,1704.733836,1.0,1876.118331
+Austria,Sweden,1,0,First round,1978,2,24.0,1597.404087,38.0,1509.785392
+Brazil,Spain,0,0,First round,1978,1,6.0,1765.856297,2.0,1873.013187
+Netherlands,Peru,0,0,First round,1978,1,8.0,1751.097835,51.0,1459.390555
+Scotland,IR Iran,1,1,First round,1978,1,42.0,1503.34027,20.0,1619.58163
+Italy,Hungary,3,1,First round,1978,2,12.0,1704.733836,41.0,1504.135797
+Poland,Tunisia,1,0,First round,1978,2,36.0,1526.183359,46.0,1476.405088
+Argentina,France,2,1,First round,1978,2,1.0,1876.118331,3.0,1869.428449
+Sweden,Brazil,1,1,First round,1978,1,38.0,1509.785392,6.0,1765.856297
+Austria,Spain,2,1,First round,1978,2,24.0,1597.404087,2.0,1873.013187
+Peru,Scotland,3,1,First round,1978,2,51.0,1459.390555,42.0,1503.34027
+Netherlands,IR Iran,3,0,First round,1978,2,8.0,1751.097835,20.0,1619.58163
+Italy,France,2,1,First round,1978,2,12.0,1704.733836,3.0,1869.428449
+Tunisia,Mexico,3,1,First round,1978,2,46.0,1476.405088,14.0,1687.481759
+Argentina,Hungary,2,1,First round,1978,2,1.0,1876.118331,41.0,1504.135797
+Brazil,Poland,0,1,Third-place match,1974,0,6.0,1765.856297,36.0,1526.183359
+Netherlands,Brazil,2,0,Second round,1974,2,8.0,1751.097835,6.0,1765.856297
+Argentina,Brazil,1,2,Second round,1974,0,1.0,1876.118331,6.0,1765.856297
+Sweden,Poland,0,1,Second round,1974,0,38.0,1509.785392,36.0,1526.183359
+Netherlands,Argentina,4,0,Second round,1974,2,8.0,1751.097835,1.0,1876.118331
+Bulgaria,Netherlands,1,4,First round,1974,0,87.0,1271.683325,8.0,1751.097835
+Poland,Italy,2,1,First round,1974,2,36.0,1526.183359,12.0,1704.733836
+Sweden,Uruguay,3,0,First round,1974,2,38.0,1509.785392,16.0,1673.068603
+Argentina,Haiti,4,1,First round,1974,2,1.0,1876.118331,83.0,1293.096585
+Australia,Chile,0,0,First round,1974,1,27.0,1579.34264,55.0,1452.939983
+Haiti,Poland,0,7,First round,1974,0,83.0,1293.096585,36.0,1526.183359
+Bulgaria,Uruguay,1,1,First round,1974,1,87.0,1271.683325,16.0,1673.068603
+Netherlands,Sweden,0,0,First round,1974,1,8.0,1751.097835,38.0,1509.785392
+Argentina,Italy,1,1,First round,1974,1,1.0,1876.118331,12.0,1704.733836
+Scotland,Brazil,0,0,First round,1974,1,42.0,1503.34027,6.0,1765.856297
+Uruguay,Netherlands,0,2,First round,1974,0,16.0,1673.068603,8.0,1751.097835
+Sweden,Bulgaria,0,0,First round,1974,1,38.0,1509.785392,87.0,1271.683325
+Italy,Haiti,3,1,First round,1974,2,12.0,1704.733836,83.0,1293.096585
+Poland,Argentina,3,2,First round,1974,2,36.0,1526.183359,1.0,1876.118331
+Brazil,Italy,4,1,Final,1970,2,6.0,1765.856297,12.0,1704.733836
+Brazil,Uruguay,3,1,Semi-finals,1970,2,6.0,1765.856297,16.0,1673.068603
+Brazil,Peru,4,2,Quarter-finals,1970,2,6.0,1765.856297,51.0,1459.390555
+Italy,Mexico,4,1,Quarter-finals,1970,2,12.0,1704.733836,14.0,1687.481759
+Mexico,Belgium,1,0,Group stage,1970,2,14.0,1687.481759,9.0,1742.235945
+Italy,Israel,0,0,Group stage,1970,1,12.0,1704.733836,76.0,1333.904007
+Bulgaria,Morocco,1,1,Group stage,1970,1,87.0,1271.683325,7.0,1755.100232
+Brazil,Romania,3,2,Group stage,1970,2,6.0,1765.856297,53.0,1455.894657
+Sweden,Uruguay,1,0,Group stage,1970,2,38.0,1509.785392,16.0,1673.068603
+Mexico,El Salvador,4,0,Group stage,1970,2,14.0,1687.481759,101.0,1225.344607
+Brazil,England,1,0,Group stage,1970,2,6.0,1765.856297,4.0,1827.048678
+Sweden,Israel,1,1,Group stage,1970,1,38.0,1509.785392,76.0,1333.904007
+Uruguay,Italy,0,0,Group stage,1970,1,16.0,1673.068603,12.0,1704.733836
+Peru,Morocco,3,0,Group stage,1970,2,51.0,1459.390555,7.0,1755.100232
+Belgium,El Salvador,3,0,Group stage,1970,2,9.0,1742.235945,101.0,1225.344607
+Italy,Sweden,1,0,Group stage,1970,2,12.0,1704.733836,38.0,1509.785392
+England,Romania,1,0,Group stage,1970,2,4.0,1827.048678,53.0,1455.894657
+Peru,Bulgaria,3,2,Group stage,1970,2,51.0,1459.390555,87.0,1271.683325
+Uruguay,Israel,2,0,Group stage,1970,2,16.0,1673.068603,76.0,1333.904007
+England,Portugal,2,1,Semi-finals,1966,2,4.0,1827.048678,5.0,1766.177547
+Portugal,Korea DPR,5,3,Quarter-finals,1966,2,5.0,1766.177547,120.0,1151.052136
+England,Argentina,1,0,Quarter-finals,1966,2,4.0,1827.048678,1.0,1876.118331
+England,France,2,0,Group stage,1966,2,4.0,1827.048678,3.0,1869.428449
+Hungary,Bulgaria,3,1,Group stage,1966,2,41.0,1504.135797,87.0,1271.683325
+Uruguay,Mexico,0,0,Group stage,1966,1,16.0,1673.068603,14.0,1687.481759
+Argentina,Switzerland,2,0,Group stage,1966,2,1.0,1876.118331,19.0,1650.064179
+Portugal,Brazil,3,1,Group stage,1966,2,5.0,1766.177547,6.0,1765.856297
+Korea DPR,Italy,1,0,Group stage,1966,2,120.0,1151.052136,12.0,1704.733836
+Portugal,Bulgaria,3,0,Group stage,1966,2,5.0,1766.177547,87.0,1271.683325
+England,Mexico,2,0,Group stage,1966,2,4.0,1827.048678,14.0,1687.481759
+Spain,Switzerland,2,1,Group stage,1966,2,2.0,1873.013187,19.0,1650.064179
+Uruguay,France,2,1,Group stage,1966,2,16.0,1673.068603,3.0,1869.428449
+Hungary,Brazil,3,1,Group stage,1966,2,41.0,1504.135797,6.0,1765.856297
+Korea DPR,Chile,1,1,Group stage,1966,1,120.0,1151.052136,55.0,1452.939983
+Argentina,Spain,2,1,Group stage,1966,2,1.0,1876.118331,2.0,1873.013187
+France,Mexico,1,1,Group stage,1966,1,3.0,1869.428449,14.0,1687.481759
+Italy,Chile,2,0,Group stage,1966,2,12.0,1704.733836,55.0,1452.939983
+Portugal,Hungary,3,1,Group stage,1966,2,5.0,1766.177547,41.0,1504.135797
+Brazil,Bulgaria,2,0,Group stage,1966,2,6.0,1765.856297,87.0,1271.683325
+England,Uruguay,0,0,Group stage,1966,1,4.0,1827.048678,16.0,1673.068603
+Brazil,Chile,4,2,Semi-finals,1962,2,6.0,1765.856297,55.0,1452.939983
+Brazil,England,3,1,Quarter-finals,1962,2,6.0,1765.856297,4.0,1827.048678
+England,Bulgaria,0,0,Group stage,1962,1,4.0,1827.048678,87.0,1271.683325
+Italy,Switzerland,3,0,Group stage,1962,2,12.0,1704.733836,19.0,1650.064179
+Hungary,Argentina,0,0,Group stage,1962,1,41.0,1504.135797,1.0,1876.118331
+Brazil,Spain,2,1,Group stage,1962,2,6.0,1765.856297,2.0,1873.013187
+Spain,Mexico,1,0,Group stage,1962,2,2.0,1873.013187,14.0,1687.481759
+Hungary,Bulgaria,6,1,Group stage,1962,2,41.0,1504.135797,87.0,1271.683325
+Chile,Italy,2,0,Group stage,1962,2,55.0,1452.939983,12.0,1704.733836
+England,Argentina,3,1,Group stage,1962,2,4.0,1827.048678,1.0,1876.118331
+Hungary,England,2,1,Group stage,1962,2,41.0,1504.135797,4.0,1827.048678
+Chile,Switzerland,3,1,Group stage,1962,2,55.0,1452.939983,19.0,1650.064179
+Uruguay,Colombia,2,1,Group stage,1962,2,16.0,1673.068603,13.0,1698.351858
+Brazil,Mexico,2,0,Group stage,1962,2,6.0,1765.856297,14.0,1687.481759
+Argentina,Bulgaria,1,0,Group stage,1962,2,1.0,1876.118331,87.0,1271.683325
+Brazil,Sweden,5,2,Final,1958,2,6.0,1765.856297,38.0,1509.785392
+Brazil,France,5,2,Semi-finals,1958,2,6.0,1765.856297,3.0,1869.428449
+France,Northern Ireland,4,0,Quarter-finals,1958,2,3.0,1869.428449,70.0,1366.564198
+Brazil,Wales,1,0,Quarter-finals,1958,2,6.0,1765.856297,37.0,1516.946629
+Wales,Hungary,2,1,Group stage play-off,1958,2,37.0,1516.946629,41.0,1504.135797
+Sweden,Wales,0,0,Group stage,1958,1,38.0,1509.785392,37.0,1516.946629
+England,Austria,2,2,Group stage,1958,1,4.0,1827.048678,24.0,1597.404087
+Hungary,Mexico,4,0,Group stage,1958,2,41.0,1504.135797,14.0,1687.481759
+France,Scotland,2,1,Group stage,1958,2,3.0,1869.428449,42.0,1503.34027
+Sweden,Hungary,2,1,Group stage,1958,2,38.0,1509.785392,41.0,1504.135797
+Argentina,Northern Ireland,3,1,Group stage,1958,2,1.0,1876.118331,70.0,1366.564198
+Paraguay,Scotland,3,2,Group stage,1958,2,40.0,1505.349689,42.0,1503.34027
+Brazil,England,0,0,Group stage,1958,1,6.0,1765.856297,4.0,1827.048678
+Mexico,Wales,1,1,Group stage,1958,1,14.0,1687.481759,37.0,1516.946629
+Sweden,Mexico,3,0,Group stage,1958,2,38.0,1509.785392,14.0,1687.481759
+Hungary,Wales,1,1,Group stage,1958,1,41.0,1504.135797,37.0,1516.946629
+Brazil,Austria,3,0,Group stage,1958,2,6.0,1765.856297,24.0,1597.404087
+France,Paraguay,7,3,Group stage,1958,2,3.0,1869.428449,40.0,1505.349689
+Germany,Hungary,3,2,Final,1954,2,10.0,1735.771984,41.0,1504.135797
+Austria,Uruguay,3,1,Third-place match,1954,2,24.0,1597.404087,16.0,1673.068603
+Hungary,Uruguay,4,2,Semi-finals,1954,2,41.0,1504.135797,16.0,1673.068603
+Germany,Austria,6,1,Semi-finals,1954,2,10.0,1735.771984,24.0,1597.404087
+Hungary,Brazil,4,2,Quarter-finals,1954,2,41.0,1504.135797,6.0,1765.856297
+Uruguay,England,4,2,Quarter-finals,1954,2,16.0,1673.068603,4.0,1827.048678
+Switzerland,Austria,5,7,Quarter-finals,1954,0,19.0,1650.064179,24.0,1597.404087
+Germany,Türkiye,7,2,Group stage play-off,1954,2,10.0,1735.771984,22.0,1605.730921
+Switzerland,Italy,4,1,Group stage play-off,1954,2,19.0,1650.064179,12.0,1704.733836
+Hungary,Germany,8,3,Group stage,1954,2,41.0,1504.135797,10.0,1735.771984
+Türkiye,Korea Republic,7,0,Group stage,1954,2,22.0,1605.730921,25.0,1591.630886
+Italy,Belgium,4,1,Group stage,1954,2,12.0,1704.733836,9.0,1742.235945
+Switzerland,England,0,2,Group stage,1954,0,19.0,1650.064179,4.0,1827.048678
+Uruguay,Scotland,7,0,Group stage,1954,2,16.0,1673.068603,42.0,1503.34027
+France,Mexico,3,2,Group stage,1954,2,3.0,1869.428449,14.0,1687.481759
+Switzerland,Italy,2,1,Group stage,1954,2,19.0,1650.064179,12.0,1704.733836
+Hungary,Korea Republic,9,0,Group stage,1954,2,41.0,1504.135797,25.0,1591.630886
+Germany,Türkiye,4,1,Group stage,1954,2,10.0,1735.771984,22.0,1605.730921
+England,Belgium,4,4,Group stage,1954,1,4.0,1827.048678,9.0,1742.235945
+Brazil,Mexico,5,0,Group stage,1954,2,6.0,1765.856297,14.0,1687.481759
+Austria,Scotland,1,0,Group stage,1954,2,24.0,1597.404087,42.0,1503.34027
+Sweden,Spain,3,1,Final stage,1950,2,38.0,1509.785392,2.0,1873.013187
+Uruguay,Brazil,2,1,Final stage,1950,2,16.0,1673.068603,6.0,1765.856297
+Brazil,Spain,6,1,Final stage,1950,2,6.0,1765.856297,2.0,1873.013187
+Uruguay,Sweden,3,2,Final stage,1950,2,16.0,1673.068603,38.0,1509.785392
+Brazil,Sweden,7,1,Final stage,1950,2,6.0,1765.856297,38.0,1509.785392
+Uruguay,Spain,2,2,Final stage,1950,1,16.0,1673.068603,2.0,1873.013187
+Italy,Paraguay,2,0,Group stage,1950,2,12.0,1704.733836,40.0,1505.349689
+Uruguay,Bolivia,8,0,Group stage,1950,2,16.0,1673.068603,77.0,1325.995377
+Spain,England,1,0,Group stage,1950,2,2.0,1873.013187,4.0,1827.048678
+Switzerland,Mexico,2,1,Group stage,1950,2,19.0,1650.064179,14.0,1687.481759
+Spain,Chile,2,0,Group stage,1950,2,2.0,1873.013187,55.0,1452.939983
+Sweden,Paraguay,2,2,Group stage,1950,1,38.0,1509.785392,40.0,1505.349689
+Brazil,Switzerland,2,2,Group stage,1950,1,6.0,1765.856297,19.0,1650.064179
+Sweden,Italy,3,2,Group stage,1950,2,38.0,1509.785392,12.0,1704.733836
+England,Chile,2,0,Group stage,1950,2,4.0,1827.048678,55.0,1452.939983
+Brazil,Mexico,4,0,Group stage,1950,2,6.0,1765.856297,14.0,1687.481759
+Brazil,Sweden,4,2,Third-place match,1938,2,6.0,1765.856297,38.0,1509.785392
+Italy,Hungary,4,2,Final,1938,2,12.0,1704.733836,41.0,1504.135797
+Hungary,Sweden,5,1,Semi-finals,1938,2,41.0,1504.135797,38.0,1509.785392
+Italy,Brazil,2,1,Semi-finals,1938,2,12.0,1704.733836,6.0,1765.856297
+Sweden,Cuba,8,0,Quarter-finals,1938,2,38.0,1509.785392,164.0,981.423455
+Hungary,Switzerland,2,0,Quarter-finals,1938,2,41.0,1504.135797,19.0,1650.064179
+Italy,France,3,1,Quarter-finals,1938,2,12.0,1704.733836,3.0,1869.428449
+Switzerland,Germany,4,2,Round of 16,1938,2,19.0,1650.064179,10.0,1735.771984
+Cuba,Romania,2,1,Round of 16,1938,2,164.0,981.423455,53.0,1455.894657
+Italy,Norway,2,1,Round of 16,1938,2,12.0,1704.733836,31.0,1557.437664
+Cuba,Romania,3,3,Round of 16,1938,1,164.0,981.423455,53.0,1455.894657
+France,Belgium,3,1,Round of 16,1938,2,3.0,1869.428449,9.0,1742.235945
+Brazil,Poland,6,5,Round of 16,1938,2,6.0,1765.856297,36.0,1526.183359
+Switzerland,Germany,1,1,Round of 16,1938,1,19.0,1650.064179,10.0,1735.771984
+Germany,Austria,3,2,Third-place match,1934,2,10.0,1735.771984,24.0,1597.404087
+Italy,Austria,1,0,Semi-finals,1934,2,12.0,1704.733836,24.0,1597.404087
+Italy,Spain,1,0,Quarter-finals,1934,2,12.0,1704.733836,2.0,1873.013187
+Austria,Hungary,2,1,Quarter-finals,1934,2,24.0,1597.404087,41.0,1504.135797
+Italy,Spain,1,1,Quarter-finals,1934,1,12.0,1704.733836,2.0,1873.013187
+Germany,Sweden,2,1,Quarter-finals,1934,2,10.0,1735.771984,38.0,1509.785392
+Hungary,Egypt,4,2,Round of 16,1934,2,41.0,1504.135797,29.0,1562.367246
+Austria,France,3,2,Round of 16,1934,2,24.0,1597.404087,3.0,1869.428449
+Switzerland,Netherlands,3,2,Round of 16,1934,2,19.0,1650.064179,8.0,1751.097835
+Sweden,Argentina,3,2,Round of 16,1934,2,38.0,1509.785392,1.0,1876.118331
+Spain,Brazil,3,1,Round of 16,1934,2,2.0,1873.013187,6.0,1765.856297
+Germany,Belgium,5,2,Round of 16,1934,2,10.0,1735.771984,9.0,1742.235945
+Uruguay,Argentina,4,2,Final,1930,2,16.0,1673.068603,1.0,1876.118331
+Argentina,Chile,3,1,Group stage,1930,2,1.0,1876.118331,55.0,1452.939983
+Uruguay,Romania,4,0,Group stage,1930,2,16.0,1673.068603,53.0,1455.894657
+Brazil,Bolivia,4,0,Group stage,1930,2,6.0,1765.856297,77.0,1325.995377
+Paraguay,Belgium,1,0,Group stage,1930,2,40.0,1505.349689,9.0,1742.235945
+Chile,France,1,0,Group stage,1930,2,55.0,1452.939983,3.0,1869.428449
+Argentina,Mexico,6,3,Group stage,1930,2,1.0,1876.118331,14.0,1687.481759
+Uruguay,Peru,1,0,Group stage,1930,2,16.0,1673.068603,51.0,1459.390555
+Chile,Mexico,3,0,Group stage,1930,2,55.0,1452.939983,14.0,1687.481759
+Argentina,France,1,0,Group stage,1930,2,1.0,1876.118331,3.0,1869.428449
+Romania,Peru,3,1,Group stage,1930,2,53.0,1455.894657,51.0,1459.390555
+France,Mexico,4,1,Group stage,1930,2,3.0,1869.428449,14.0,1687.481759
