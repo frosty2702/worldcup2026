@@ -1,5 +1,7 @@
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
+import joblib
+from pathlib import Path
 
 # load data
 matches = pd.read_csv("data/raw/matches_1930_2022.csv")
@@ -16,6 +18,10 @@ matches = matches[
     ]
 ]
 
+# add simple engineered features
+matches["goal_diff"] = matches["home_score"] - matches["away_score"]
+matches["total_goals"] = matches["home_score"] + matches["away_score"]
+
 # create target column
 def get_result(row):
     if row["home_score"] > row["away_score"]:
@@ -27,25 +33,37 @@ def get_result(row):
 
 matches["result"] = matches.apply(get_result, axis=1)
 
-# encode team names
+# encode team names with a stable mapping and handle unseen teams as -1
 team_encoder = LabelEncoder()
 
-all_teams = pd.concat(
-    [matches["home_team"], matches["away_team"]]
-)
-
+all_teams = pd.concat([matches["home_team"], matches["away_team"]]).unique()
 team_encoder.fit(all_teams)
 
-matches["home_team"] = team_encoder.transform(matches["home_team"])
-matches["away_team"] = team_encoder.transform(matches["away_team"])
+# build mapping dict from fitted classes_
+team_mapping = {team: idx for idx, team in enumerate(team_encoder.classes_)}
+
+matches["home_team"] = matches["home_team"].map(team_mapping).fillna(-1).astype(int)
+matches["away_team"] = matches["away_team"].map(team_mapping).fillna(-1).astype(int)
 
 # encode tournament round
 round_encoder = LabelEncoder()
+matches["Round"] = round_encoder.fit_transform(matches["Round"].astype(str))
 
-matches["Round"] = round_encoder.fit_transform(matches["Round"])
+# ensure models dir exists and save encoders
+models_dir = Path("models")
+models_dir.mkdir(parents=True, exist_ok=True)
+
+joblib.dump(team_encoder, models_dir / "team_encoder.joblib")
+joblib.dump(round_encoder, models_dir / "round_encoder.joblib")
+
+# export cleaned/encoded dataset
+out_path = Path("data/cleaned_matches.csv")
+matches.to_csv(out_path, index=False)
 
 print(matches.head(10))
+print(f"\nSaved cleaned data to: {out_path}")
+print(f"Saved encoders to: {models_dir / 'team_encoder.joblib'}, {models_dir / 'round_encoder.joblib'}")
 
-print("\nExample team mapping:")
-for i in range(10):
-    print(i, "=", team_encoder.inverse_transform([i])[0])
+print("\nExample team mapping (first 10 classes):")
+for i, team in enumerate(team_encoder.classes_[:10]):
+    print(i, "=", team)
